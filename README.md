@@ -21,4 +21,5 @@ run gnerate_text.py for augmenting data
 
 run calculate_vinfo.py for generating PVI score
 
+If you use our dataset in your work, please use appropriate citation. Details will be added after the EMNLP 2024 proceedings is available.
 
