@@ -4,7 +4,7 @@ facilitate solution-focused caregiver strategy exchange for personalized pediatr
 rehabilitation service design
 
 Data Access:
-1. the daat directory has the non strategy form data (CC+NS) that has been collected from public form data (details in the paper.)
+1. the data directory has the non strategy form data (CC+NS) that has been collected from public form data (details in the paper.)
 2. For getting access to our privately collected dataset (CC+, CC+Aug), please contact any of the following authors:
     {sfarza3, ilucer3, vvilleg2, mkhetani, parde}@uic.edu, vera.kaelin@umu.se  
 
