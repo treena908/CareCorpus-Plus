@@ -2,6 +2,8 @@
 
 
 # Strategy-Classification
+Official implementation from paper: "CareCorpus+: Expanding and Augmenting Caregiver Strategy Data to Support Pediatric Rehabilitation" EMNLP-main 2024
+
 Building strategy bank by automated strategy classification and generation to
 facilitate solution-focused caregiver strategy exchange for personalized pediatric
 rehabilitation service design
