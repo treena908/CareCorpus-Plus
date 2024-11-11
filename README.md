@@ -1,3 +1,6 @@
+<img width="613" alt="image" src="https://github.com/user-attachments/assets/9f8a91e1-bec5-4048-a8e0-35e4bfab3000">
+
+
 # Strategy-Classification
 Building strategy bank by automated strategy classification and generation to
 facilitate solution-focused caregiver strategy exchange for personalized pediatric
